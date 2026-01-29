@@ -1,4 +1,4 @@
-# Welcome to Prof. Su Wholecell's Group Page
+# Welcome to Prof. Su Wholecell Group Page
 
 Here you will find resources and information related to our research on whole-cell simulations and related topics. Explore the sections to learn more about our research on cable bacteria and other fascinating subjects in electrobiology.
 
