@@ -1,0 +1,64 @@
+site_name: Prof. Su Wholecell's Group
+
+theme:
+  name: material
+  features:
+    - toc.integrate
+    - navigation.top
+
+plugins:
+  - blog:
+      post_date_format: long
+      post_readtime_words_per_minute: 300
+      authors_profiles: true
+      archive: false
+
+nav:
+  - Home: index.md
+  - Blog: blog/index.md
+  - Electrobiology:
+      - Overview: Electrobiology/README.md
+      - Cable Bacteria: 
+        - Overview: Electrobiology/Cable Bacteria/README.md
+        - Model: Electrobiology/Cable Bacteria/Model/README.md
+        - Omics: Electrobiology/Cable Bacteria/Omics/README.md
+      - Clostridium ljungdahlii:
+        - Overview: Electrobiology/Clostridium ljungdahlii/README.md
+        - Model: Electrobiology/Clostridium ljungdahlii/Model/README.md
+        - Omics: Electrobiology/Clostridium ljungdahlii/Omics/README.md
+      - Clostridium luticellarii: 
+        - Overview: Electrobiology/Clostridium luticellarii/README.md
+        - Model: Electrobiology/Clostridium luticellarii/Model/README.md
+        - Omics: Electrobiology/Clostridium luticellarii/Omics/README.md
+      - Geobactor sulfurreducens:
+        - Overview: Electrobiology/Geobactor sulfurreducens/README.md
+        - Model: Electrobiology/Geobactor sulfurreducens/Model/README.md
+        - Omics: Electrobiology/Geobactor sulfurreducens/Omics/README.md
+      - Geothrix fermentans: 
+        - Overview: Electrobiology/Geothrix fermentans/README.md
+        - Model: Electrobiology/Geothrix fermentans/Model/README.md
+        - Omics: Electrobiology/Geothrix fermentans/Omics/README.md
+      - Rhodopseudomonas palustris:
+        - Overview: Electrobiology/Rhodopseudomonas palustris/README.md
+        - Model: Electrobiology/Rhodopseudomonas palustris/Model/README.md
+        - Omics: Electrobiology/Rhodopseudomonas palustris/Omics/README.md
+      - Shewanella oneidensis:
+        - Overview: Electrobiology/Shewanella oneidensis/README.md
+        - Model: Electrobiology/Shewanella oneidensis/Model/README.md
+        - Omics: Electrobiology/Shewanella oneidensis/Omics/README.md
+      - Thauera sp. MZ1T: 
+        - Overview: Electrobiology/Thauera sp. MZ1T/README.md
+        - Model: Electrobiology/Thauera sp. MZ1T/Model/README.md
+        - Omics: Electrobiology/Thauera sp. MZ1T/Omics/README.md
+  - Model Collection:
+      - Overview: Model collection/README.md
+      - E. coli: Model collection/E coli/README.md
+      - S. cerevisiae: Model collection/S.cerevisiae/README.md
+  - Weekly Progress:
+      - Bao: Weekly progress/Bao/README.md
+      - Kim: Weekly progress/Kim/README.md
+      - Rich: Weekly progress/Rich/README.md
+      - Sam: Weekly progress/Sam/README.md
+      - Tobby: Weekly progress/Tobby/README.md
+      - Xiaoguang: Weekly progress/Xiaoguang/README.md
+

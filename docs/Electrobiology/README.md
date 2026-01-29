@@ -1,0 +1,3 @@
+# Introduction
+
+Electrobiology is the study of the electrical properties of biological cells and tissues. It involves the investigation of how electrical signals are generated, transmitted, and received by living organisms. This field encompasses a wide range of topics, including bioelectricity, electrophysiology, and the role of electrical signals in cellular processes such as communication, development, and regeneration.
