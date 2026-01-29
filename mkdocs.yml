@@ -12,10 +12,18 @@ plugins:
       post_readtime_words_per_minute: 300
       authors_profiles: true
       archive: false
+  - search
+  - macros
+
+markdown_extensions:
+  - pymdownx.pathconverter:
+      base_path: 'YOUR_REPO_NAME' # default: ''
+      relative_path: '' # default ''
+      absolute: true # default: false
+      tags: 'a script img link object embed'
 
 nav:
   - Home: index.md
-  - Blog: blog/index.md
   - Electrobiology:
       - Overview: Electrobiology/README.md
       - Cable Bacteria: 
@@ -61,4 +69,5 @@ nav:
       - Sam: Weekly progress/Sam/README.md
       - Tobby: Weekly progress/Tobby/README.md
       - Xiaoguang: Weekly progress/Xiaoguang/README.md
+  - Blog: blog/index.md
 
