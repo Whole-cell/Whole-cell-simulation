@@ -1,5 +1,5 @@
 
-{% with pdf_file = "kjeldsen-et-al-2019-on-the-evolution-and-physiology-of-cable-bacteria.pdf" %}
+{% with pdf_file = "Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems.pdf" %}
 
 ## Example: Embedding a PDF file
 
@@ -11,7 +11,7 @@
 
 
 
-{% with pdf_file = "rsos.231991.pdf" %}
+{% with pdf_file = "On the evolution and physiology of cable bacteria.pdf" %}
 
 ## Example: Embedding a PDF file
 
