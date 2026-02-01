@@ -27,6 +27,7 @@ plugins:
   - macros
   - meta
   - social
+  - copyfiles
 
 markdown_extensions:
   - pymdownx.pathconverter:
