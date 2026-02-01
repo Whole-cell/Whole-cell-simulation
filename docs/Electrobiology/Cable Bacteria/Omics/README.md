@@ -1,7 +1,7 @@
 
 {% with pdf_file = "Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems.pdf" %}
 
-## Example: Embedding a PDF file
+## Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems
 
 <object data="{{ pdf_file }}" type="application/pdf" style="width:100%; height:800px;">
     <embed src="{{ pdf_file }}" type="application/pdf" />
@@ -13,7 +13,7 @@
 
 {% with pdf_file = "On the evolution and physiology of cable bacteria.pdf" %}
 
-## Example: Embedding a PDF file
+## Example: On the evolution and physiology of cable bacteria
 
 <object data="{{ pdf_file }}" type="application/pdf" style="width:100%; height:800px;">
     <embed src="{{ pdf_file }}" type="application/pdf" />
