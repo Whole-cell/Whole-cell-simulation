@@ -17,18 +17,6 @@ theme:
     - toc.integrate
     - navigation.top
 
-plugins:
-  - blog:
-      post_date_format: long
-      post_readtime_words_per_minute: 300
-      authors_profiles: true
-      archive: false
-  - search
-  - macros
-  - meta
-  - social
-  
-
 markdown_extensions:
   - pymdownx.pathconverter:
       base_path: 'YOUR_REPO_NAME' # default: ''
