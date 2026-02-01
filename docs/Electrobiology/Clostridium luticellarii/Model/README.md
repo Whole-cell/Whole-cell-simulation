@@ -1,15 +1,27 @@
-# Clostridium luticellarii Model
 
-This directory contains the metabolic model for *Clostridium luticellarii*.
+{% with pdf_file = "Characterizing acetogenic metabolism using a
+genome-scale metabolic reconstruction of Clostridium ljungdahlii.pdf" %}
 
-## Model Files
+## Characterizing acetogenic metabolism using agenome-scale metabolic reconstruction of Clostridium ljungdahlii
 
-- iHN637.mat - MATLAB format model
+<object data="{{ pdf_file }}" type="application/pdf" style="width:100%; height:800px;">
+    <embed src="{{ pdf_file }}" type="application/pdf" />
+</object>
 
-## Description
+{% endwith %}
 
-*Clostridium luticellarii* is an electroactive bacterium capable of extracellular electron transfer.
 
-## References
 
-Please refer to the relevant publications for model details and validation.
+{% with pdf_file = "Implementation of a Clostridium luticellarii genome-scale model for upgrading syngas fermentations.pdf" %}
+
+## Implementation of a Clostridium luticellarii genome-scale model for upgrading syngas fermentations.
+
+<object data="{{ pdf_file }}" type="application/pdf" style="width:100%; height:800px;">
+    <embed src="{{ pdf_file }}" type="application/pdf" />
+</object>
+
+{% endwith %} 
+
+## iHN637.mat
+
+[Download iHN637.mat](iHN637.mat)
