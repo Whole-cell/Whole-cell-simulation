@@ -1,15 +1,11 @@
-# Thauera sp. MZ1T Model
 
-This directory contains the metabolic model for *Thauera* sp. MZ1T.
+## Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems
 
-## Model Files
+<object data="iThauera861.pdf" type="application/pdf" style="width:100%; height:800px;">
+    <embed src="iThauer861.pdf" type="application/pdf" />
+</object>
 
-- iThauera861.mat - MATLAB format model
+## ec_iHN637
 
-## Description
+[Download iThauera861.mat](iThuera861.mat)
 
-*Thauera* sp. MZ1T is an electroactive bacterium with unique metabolic capabilities.
-
-## References
-
-Please refer to the relevant publications for model details and validation.

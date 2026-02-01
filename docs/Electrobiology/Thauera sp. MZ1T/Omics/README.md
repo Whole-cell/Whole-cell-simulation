@@ -1,18 +1,9 @@
-# Thauera sp. MZ1T Omics Data
 
-This directory contains omics data for *Thauera* sp. MZ1T.
+## Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems
 
-## Data Types
+<object data="Complete genome sequence of Thauera aminoaromatica  strain MZ1T.pdf" type="application/pdf" style="width:100%; height:800px;">
+    <embed src="Complete genome sequence of Thauera aminoaromatica  strain MZ1T.pdf" type="application/pdf" />
+</object>
 
-- Genomics
-- Transcriptomics
-- Proteomics
-- Metabolomics
 
-## Description
 
-Omics datasets support the metabolic model reconstruction and validation.
-
-## Analysis
-
-Add analysis results and interpretations here.
