@@ -5,12 +5,9 @@
     <embed src="iThauer861.pdf" type="application/pdf" />
 </object>
 
-## ec_iHN637
 
-[Download iThauera861.mat]
+## iThauera861
 
-## iThaure861
-
-([Download iThauera861.mat](https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Rhodopseudomonas%20palustris/Model/iThauera861.mat))
+([Download iThauera861.mat](https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Thauera%20sp.%20MZ1T/Model/iThauera861.mat))
 
 
