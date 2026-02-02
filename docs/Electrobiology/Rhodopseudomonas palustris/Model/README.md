@@ -5,7 +5,7 @@
     <embed src="iDT1294.pdf" type="application/pdf" />
 </object>
 
-## ec_iHN637
+## iDT1294
 
-[Download iDT1294.mat](iDT1294.mat)
+([Download iDT1294.mat](https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Rhodopseudomonas%20palustris/Model/iDT1294.mat))
 
