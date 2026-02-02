@@ -14,4 +14,4 @@
 
 ## iHN637.mat
 
-[Download iHN637.mat](iHN637.mat)
+[Download iHN637.mat](https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Clostridium%20luticellarii/Model/iHN637.mat)
