@@ -19,7 +19,7 @@ theme:
 
 markdown_extensions:
   - pymdownx.pathconverter:
-      base_path: 'YOUR_REPO_NAME' # default: ''
+      base_path: 'Whole-cell-simulation' # default: ''
       relative_path: '' # default ''
       absolute: true # default: false
       tags: 'a script img link object embed'
