@@ -7,4 +7,4 @@
 
 ## ec_iHN637
 
-[Download ec_iHN637.xml](https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Clostridium%20ljungdahlii/Model/ec_iHN637.zip)
+[Download ec_iHN637.zip](https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Clostridium%20ljungdahlii/Model/ec_iHN637.zip)
