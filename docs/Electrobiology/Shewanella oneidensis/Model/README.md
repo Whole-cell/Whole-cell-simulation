@@ -7,6 +7,7 @@
 
 ## ec_iHN637
 
-[Download iLJ1162.xml](iLJ1162.xml)
+[Download iLJ1162.zip](https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Rhodopseudomonas%20palustris/Model/DataSheet2.ZIP)
+
 
 
