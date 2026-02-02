@@ -7,5 +7,10 @@
 
 ## ec_iHN637
 
-[Download iThauera861.mat](iThuera861.mat)
+[Download iThauera861.mat]
+
+## iThaure861
+
+([Download iThauera861.mat](https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Rhodopseudomonas%20palustris/Model/iThauera861.mat))
+
 
