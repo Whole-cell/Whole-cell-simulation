@@ -5,9 +5,9 @@
     <embed src="iLJ1162.pdf" type="application/pdf" />
 </object>
 
-## ec_iHN637
+## iLJ1162
 
-[Download iLJ1162.zip](https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Rhodopseudomonas%20palustris/Model/DataSheet2.ZIP)
+[Download iLJ1162.zip](https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Shewanella%20oneidensis/Model/DataSheet2.ZIP)
 
 
 
