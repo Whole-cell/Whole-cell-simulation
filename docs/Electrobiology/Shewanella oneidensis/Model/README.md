@@ -1,5 +1,5 @@
 
-## Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems
+## Reconstruction of a Genome-Scale Metabolic Network for Shewanella oneidensis MR-1 and Analysis of its Metabolic Potential for Bioelectrochemical Systems
 
 <object data="iLJ1162.pdf" type="application/pdf" style="width:100%; height:800px;">
     <embed src="iLJ1162.pdf" type="application/pdf" />
