@@ -24,9 +24,9 @@ plugins:
       post_date_format: yyyy-MM-dd
       archive: true
       archive_name: By Time
-      archive_date_format: yyyy/MM
+      archive_date_format: MMM yyyy
       categories: true
-      categories_name: By Tags
+      categories_name: By Category
       authors: true
       authors_file: blog/.authors.yml
       pagination_per_page: 10
