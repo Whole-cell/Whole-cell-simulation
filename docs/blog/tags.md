@@ -1,10 +1,5 @@
----
-hide:
-  - navigation
-  - toc
----
+# By Tags
 
-# Tags
+Following is a list of relevant tags:
 
-<!-- This page will be auto-populated by the tags plugin -->
-[TAGS]
+<!-- material/tags -->

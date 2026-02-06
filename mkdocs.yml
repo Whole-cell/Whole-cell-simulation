@@ -32,8 +32,6 @@ plugins:
       authors_profiles_name: By Author
       authors_file: blog/.authors.yml
       pagination_per_page: 10
-  - tags:
-      tags_file: blog/tags.md
 
 markdown_extensions:
   - pymdownx.pathconverter:
@@ -81,5 +79,5 @@ nav:
       - Xiaoguang: Weekly progress/Xiaoguang/README.md
   - Our Works:
       - blog/index.md
-      - Tags: blog/tags.md
+      - By Tags: blog/tags.md
 
