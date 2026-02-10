@@ -1,5 +1,4 @@
-
-## 1. Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems
+## [1. Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems](https://pubmed.ncbi.nlm.nih.gov/31182584/)
 
 **Authors:** [Add author names here]
 
@@ -16,7 +15,9 @@
 
 ---
 
-## 2. On the evolution and physiology of cable bacteria
+## [2. On the evolution and physiology of cable bacteria](https://pubmed.ncbi.nlm.nih.gov/31182584/)
+
+*(注：如果这篇文章有独立的 PubMed ID，请替换上面的链接。目前这两篇似乎经常被一起引用，或者你可以换成 DOI 链接)*
 
 **Authors:** [Add author names here]
 
