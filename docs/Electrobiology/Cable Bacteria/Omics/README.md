@@ -9,7 +9,8 @@
 <details>
 <summary><button class="md-button md-button--primary">📄 View Paper</button></summary>
 
-<embed src="https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Cable%20Bacteria/Omics/Cable%20bacteria%20delay%20euxinia%20and%20modulate%20phosphorus%20release%20in%20coastal%20hypoxic%20systems.pdf" type="application/pdf" style="width:100%; height:800px;" />
+<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Cable%20Bacteria/Omics/Cable%20bacteria%20delay%20euxinia%20and%20modulate%20phosphorus%20release%20in%20coastal%20hypoxic%20systems.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
+
 
 </details>
 
