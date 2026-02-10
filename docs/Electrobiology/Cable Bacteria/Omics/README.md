@@ -7,7 +7,7 @@
 
 **Abstract:** [Add abstract text here]
 
-[View Paper](Cable%20bacteria%20delay%20euxinia%20and%20modulate%20phosphorus%20release%20in%20coastal%20hypoxic%20systems.pdf){: .md-button .md-button--primary }
+[View Paper](https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Cable%20Bacteria/Omics/Cable%20bacteria%20delay%20euxinia%20and%20modulate%20phosphorus%20release%20in%20coastal%20hypoxic%20systems.pdf)
 
 ---
 
