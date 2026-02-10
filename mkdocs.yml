@@ -17,6 +17,25 @@ theme:
     - toc.integrate
     - navigation.top
 
+plugins:
+  - search
+  - blog:
+      blog_dir: blog
+      post_date_format: yyyy-MM-dd
+      archive: true
+      archive_name: By Time
+      archive_date_format: MMM yyyy
+      categories: true
+      categories_name: By Category
+      authors: true
+      authors_profiles: true
+      authors_profiles_name: By Author
+      authors_file: blog/.authors.yml
+      pagination_per_page: 10
+  - tags:
+      tag_name: By Tags
+      tag_template: blog/tag.md
+
 markdown_extensions:
   - pymdownx.pathconverter:
       base_path: 'Whole-cell-simulation' # default: ''
@@ -51,15 +70,7 @@ nav:
       - Thauera sp. MZ1T: 
         - Model: Electrobiology/Thauera sp. MZ1T/Model/README.md
         - Omics: Electrobiology/Thauera sp. MZ1T/Omics/README.md
-  - Model Collection:
-      - E. coli: Model collection/E coli/README.md
-      - S. cerevisiae: Model collection/S.cerevisiae/README.md
-  - Weekly Progress:
-      - Bao: Weekly progress/Bao/README.md
-      - Kim: Weekly progress/Kim/README.md
-      - Rich: Weekly progress/Rich/README.md
-      - Sam: Weekly progress/Sam/README.md
-      - Tobby: Weekly progress/Tobby/README.md
-      - Xiaoguang: Weekly progress/Xiaoguang/README.md
-  - Blog: blog/index.md
+  - Our Works:
+      - blog/index.md
+      - By Tags: blog/tags.md
 

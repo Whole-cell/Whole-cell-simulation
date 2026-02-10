@@ -3,6 +3,11 @@ date:
   created: 2026-01-29
 authors:
   - sam
+categories:
+  - Research
+tags:
+  - update
+  - blog
 ---
 
 # Our First Blog Post
