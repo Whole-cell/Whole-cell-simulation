@@ -1,12 +1,22 @@
 
-## Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems
+## 1. [Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems](Cable%20bacteria%20delay%20euxinia%20and%20modulate%20phosphorus%20release%20in%20coastal%20hypoxic%20systems.pdf)
 
-<object data="Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems.pdf" type="application/pdf" style="width:100%; height:800px;">
-    <embed src="Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems.pdf" type="application/pdf" />
-</object>
+**Authors:** [Add author names here]
 
-## On the evolution and physiology of cable bacteria
+**Citation:** [Journal Name, Year, Volume, Pages. DOI: doi-link]
 
-<object data="On the evolution and physiology of cable bacteria.pdf" type="application/pdf" style="width:100%; height:800px;">
-    <embed src="On the evolution and physiology of cable bacteria.pdf" type="application/pdf" />
-</object>
+**Abstract:** [Add abstract text here]
+
+[View Paper](Cable%20bacteria%20delay%20euxinia%20and%20modulate%20phosphorus%20release%20in%20coastal%20hypoxic%20systems.pdf){: .md-button .md-button--primary }
+
+---
+
+## 2. [On the evolution and physiology of cable bacteria](On%20the%20evolution%20and%20physiology%20of%20cable%20bacteria.pdf)
+
+**Authors:** [Add author names here]
+
+**Citation:** [Journal Name, Year, Volume, Pages. DOI: doi-link]
+
+**Abstract:** [Add abstract text here]
+
+[View Paper](On%20the%20evolution%20and%20physiology%20of%20cable%20bacteria.pdf){: .md-button .md-button--primary }
