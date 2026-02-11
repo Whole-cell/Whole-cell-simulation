@@ -1,4 +1,4 @@
-## [2. Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems](https://pubmed.ncbi.nlm.nih.gov/38633354/)
+## [1. Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems](https://pubmed.ncbi.nlm.nih.gov/38633354/)
 
 **Authors:** Laurine D W Burdorf , Sebastiaan J van de Velde , Silvia Hidalgo-Martinez , Filip J R Meysman  
 
