@@ -7,6 +7,6 @@
 <details>
 <summary><button class="md-button md-button--primary">📄 View Paper</button></summary>
 
-<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Thasera%20sp.%20MZ1T/Omics/Complete%20genome%20sequence%20of%20Thauera%20aminoaromatica %20strain%20MZ1T.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Thauera%20sp.%20MZ1T/Omics/Complete%20genome%20sequence%20of%20Thauera%20aminoaromatica %20strain%20MZ1T.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
 
 </details>
