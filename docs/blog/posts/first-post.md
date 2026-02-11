@@ -3,8 +3,16 @@ date:
   created: 2026-01-29
 authors:
   - sam
+  - Xiaoguang
+  - Rich
+  - Bao
+  - Kim
+  - Mathew
+  - Leo
+  - Lihan
+  - 
 categories:
-  - Research
+  - Electrobiology
 tags:
   - update
   - blog
