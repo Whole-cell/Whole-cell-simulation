@@ -1,26 +1,26 @@
-## [Caproicibacter fermentans gen. nov., sp. nov., a new caproate-­ producing bacterium and emended description of the genus Caproiciproducens](https://pubmed.ncbi.nlm.nih.gov/32584751/)
+## [Characterization of Anaerobic Catabolism of p-Coumarate in Rhodopseudomonas palustris by Integrating Transcriptomics and Quantitative Proteomics](https://pubmed.ncbi.nlm.nih.gov/18156135/)
 
-**Authors:** Maximilian Flaiz , Tina Baur , Sven Brahner , Anja Poehlein , Rolf Daniel , Frank R Bengelsdorf 
+**Authors:** Chongle Pan , Yasuhiro Oda, Patricia K Lankford, Bing Zhang, Nagiza F Samatova, Dale A Pelletier, Caroline S Harwood, Robert L Hettich
 
-**Citation:**  Microbiology， 25 June, 2020
+**Citation:**  Molecular and Cell Proteomics， 20 Dec, 2007
 
 <details>
 <summary><button class="md-button md-button--primary">📄 View Paper</button></summary>
 
-<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Geothrix%20fermentans/Omics/Caproicibacter%20fermentans%20gen.%20nov.,%20sp.%20nov.,%20a%20new%20caproate-%20producing%20bacterium%20and%20emended%20description%20of%20the%20genus%20Caproiciproducens.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Rhodopseudomonas%20palustris/Omics/Characterization%20of%20Anaerobic%20Catabolism%20of%20p-Coumarate%20in%20Rhodopseudomonas%20palustris%20by%20Integrating%20Transcriptomics%20and%20Quantitative%20Proteomics.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
 
 </details>
 ---
 
-## [Geothrix fermentans Secretes Two Different Redox-Active Compounds To Utilize Electron Acceptors across a Wide Range of Redox Potentials](https://pubmed.ncbi.nlm.nih.gov/22843516/)
+## [Complete genome sequence of the metabolically versatile photosynthetic bacterium Rhodopseudomonas palustris](https://pubmed.ncbi.nlm.nih.gov/14704707/)
 
-**Authors:**  Misha G Mehta-Kolte 1, Daniel R Bond 
+**Authors:**  Frank W Larimer 1, Patrick Chain, Loren Hauser, Jane Lamerdin, Stephanie Malfatti, Long Do, Miriam L Land, Dale A Pelletier, J Thomas Beatty, Andrew S Lang, F Robert Tabita, Janet L Gibson, Thomas E Hanson, Cedric Bobst, Janelle L Torres y Torres, Caroline Peres, Faith H Harrison, Jane Gibson, Caroline S Harwood 
 
-**Citation:**  American Society For microbiology， 7 September, 2012
+**Citation:**  Natire Biotechnology， 14 December, 2003
 
 <details>
 <summary><button class="md-button md-button--primary">📄 View Paper</button></summary>
 
-<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Geobactor%20sulfurreducens/Omics/The%20hidden%20chemolithoautotrophic%20metabolism%20of%20Geobacter%20sulfurreducens%20uncovered%20by%20adaptation%20to%20formate.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Rhodopseudomonas%20palustris/Omics/Complete%20genome%20sequence%20of%20the%20metabolically%20versatile%20photosynthetic%20bacterium%20Rhodopseudomonas%20palustris.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
 
 </details>
