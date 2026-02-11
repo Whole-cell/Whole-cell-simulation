@@ -1,4 +1,4 @@
-## [2. On the evolution and physiology of cable bacteria](https://pubmed.ncbi.nlm.nih.gov/37790242/)
+## [ Enzyme-constrained metabolic model and in silico metabolic engineering of Clostridium ljungdahlii for the development of sustainable production processes](https://pubmed.ncbi.nlm.nih.gov/37790242/)
 
 **Authors:** Antonio Caivano , Wouter van Winden , Giuliano Dragone , Solange I Mussatto  
 

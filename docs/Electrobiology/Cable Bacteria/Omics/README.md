@@ -1,4 +1,4 @@
-## [1. Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems](https://pubmed.ncbi.nlm.nih.gov/38633354/)
+## [Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems](https://pubmed.ncbi.nlm.nih.gov/38633354/)
 
 **Authors:** Laurine D W Burdorf , Sebastiaan J van de Velde , Silvia Hidalgo-Martinez , Filip J R Meysman  
 
@@ -12,7 +12,7 @@
 </details>
 ---
 
-## [2. On the evolution and physiology of cable bacteria](https://pubmed.ncbi.nlm.nih.gov/31427514/)
+## [On the evolution and physiology of cable bacteria](https://pubmed.ncbi.nlm.nih.gov/31427514/)
 
 **Authors:**  Kasper U Kjeldsen , Lars Schreiber , Casper A Thorup , Thomas Boesen , Jesper T Bjerg , Tingting Yang , Morten S Dueholm , Steffen Larsen , Nils Risgaard-Petersen , Marta Nierychlo , Markus Schmid , Andreas Bøggild , Jack van de Vossenberg , Jeanine S Geelhoed , Filip J R Meysman , Michael Wagner , Per H Nielsen , Lars Peter Nielsen , Andreas Schramm 
 
