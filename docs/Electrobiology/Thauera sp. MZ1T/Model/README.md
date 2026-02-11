@@ -1,9 +1,16 @@
 
-## Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems
+## [A genome-scale metabolic model for the denitrifying bacterium Thauera sp. MZ1T accurately predicts degradation of pollutants and production of polymers](https://pubmed.ncbi.nlm.nih.gov/39774301/)
 
-<object data="iThauera861.pdf" type="application/pdf" style="width:100%; height:800px;">
-    <embed src="iThauer861.pdf" type="application/pdf" />
-</object>
+**Authors:** Diego Tec-Campos 1 2, Juan D Tibocha-Bonilla 3, Celina Jiang 2, Anurag Passi 2, Deepan Thiruppathy 2, Cristal Zuñiga 4, Camila Posadas 1, Alejandro Zepeda 1, Karsten Zengler
+
+**Citation:**  PLOS computational biology， 7 January, 2025
+
+<details>
+<summary><button class="md-button md-button--primary">📄 View Paper</button></summary>
+
+<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Shewanella%20oneidensis/Model/iThauera861.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
+
+</details>
 
 
 ## iThauera861
