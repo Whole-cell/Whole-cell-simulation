@@ -1,11 +1,8 @@
-## [1. Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems](https://pubmed.ncbi.nlm.nih.gov/31182584/)
+## [1. Cable bacteria delay euxinia and modulate phosphorus release in coastal hypoxic systems](https://pubmed.ncbi.nlm.nih.gov/38633354/)
 
-**Authors:** [Add author names here]
+**Authors:** Laurine D W Burdorf , Sebastiaan J van de Velde , Silvia Hidalgo-Martinez , Filip J R Meysman 
 
-**Citation:** [Journal Name, Year, Volume, Pages. DOI: doi-link]
-
-**Abstract:** [Add abstract text here]
-
+**Citation:** Royal Soceity open Science, Apr 17 2024
 <details>
 <summary><button class="md-button md-button--primary">📄 View Paper</button></summary>
 
@@ -15,13 +12,11 @@
 
 ---
 
-## [2. On the evolution and physiology of cable bacteria](https://pubmed.ncbi.nlm.nih.gov/31405980/)
+## [2. On the evolution and physiology of cable bacteria](https://pubmed.ncbi.nlm.nih.gov/31427514/)
 
-**Authors:** [Add author names here]
+**Authors:**  Kasper U Kjeldsen , Lars Schreiber , Casper A Thorup , Thomas Boesen , Jesper T Bjerg , Tingting Yang , Morten S Dueholm , Steffen Larsen , Nils Risgaard-Petersen , Marta Nierychlo , Markus Schmid , Andreas Bøggild , Jack van de Vossenberg , Jeanine S Geelhoed , Filip J R Meysman , Michael Wagner , Per H Nielsen , Lars Peter Nielsen , Andreas Schramm 
 
-**Citation:** [Journal Name, Year, Volume, Pages. DOI: doi-link]
-
-**Abstract:** [Add abstract text here]
+**Citation:**  Proceedings of the National Academy of Sciences of the United States of America， August 19, 2019
 
 <details>
 <summary><button class="md-button md-button--primary">📄 View Paper</button></summary>
