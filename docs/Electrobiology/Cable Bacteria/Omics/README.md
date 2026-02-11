@@ -16,7 +16,7 @@
 
 **Authors:**  Kasper U Kjeldsen , Lars Schreiber , Casper A Thorup , Thomas Boesen , Jesper T Bjerg , Tingting Yang , Morten S Dueholm , Steffen Larsen , Nils Risgaard-Petersen , Marta Nierychlo , Markus Schmid , Andreas Bøggild , Jack van de Vossenberg , Jeanine S Geelhoed , Filip J R Meysman , Michael Wagner , Per H Nielsen , Lars Peter Nielsen , Andreas Schramm 
 
-**Citation:**  Proceedings of the National Academy of Sciences of the United States of America， August 19, 2019
+**Citation:**  Proceedings of the National Academy of Sciences of the United States of America， 19 August, 2019
 
 <details>
 <summary><button class="md-button md-button--primary">📄 View Paper</button></summary>

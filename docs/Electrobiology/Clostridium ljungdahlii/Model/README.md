@@ -2,7 +2,7 @@
 
 **Authors:** Antonio Caivano , Wouter van Winden , Giuliano Dragone , Solange I Mussatto  
 
-**Citation:**  Computational Structural Biotechnology Journal， September 15, 2023
+**Citation:**  Computational Structural Biotechnology Journal，  15 September, 2023
 
 <details>
 <summary><button class="md-button md-button--primary">📄 View Paper</button></summary>
