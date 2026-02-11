@@ -21,6 +21,6 @@
 <details>
 <summary><button class="md-button md-button--primary">📄 View Paper</button></summary>
 
-<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Geobactor%20sulfurreducens/Omics/The%20hidden%20chemolithoautotrophic%20metabolism%20of%20Geobacter%20sulfurreducens%20uncovered%20by%20adaptation%20to%20formate.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Whole-cell/Whole-cell-simulation/main/docs/Electrobiology/Geobactor%20fermentants/Omics/Geothrix%20fermentans%20Secretes%20Two%20Different%20Redox-Active%20Compounds%20To%20Utilize%20Electron%20Acceptors%20across%20a%20Wide%20Range%20of%20Redox%20Potentials.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
 
 </details>
