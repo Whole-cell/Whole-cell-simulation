@@ -12,11 +12,11 @@
 </details>
 ---
 
-## [Separate, separated, and together, the transcriptional program...](https://pubmed.ncbi.nlm.nih.gov/31427514/)
+## [Separate, separated, and together, the transcriptional program...](https://pubmed.ncbi.nlm.nih.gov/40298437/)
 
-**Authors:**  Kasper U Kjeldsen , Lars Schreiber , Casper A Thorup , Thomas Boesen , Jesper T Bjerg , Tingting Yang , Morten S Dueholm , Steffen Larsen , Nils Risgaard-Petersen , Marta Nierychlo , Markus Schmid , Andreas Bøggild , Jack van de Vossenberg , Jeanine S Geelhoed , Filip J R Meysman , Michael Wagner , Per H Nielsen , Lars Peter Nielsen , Andreas Schramm 
+**Authors:**  Noah B Willis , Eleftherios T Papoutsakis 
 
-**Citation:**  Proceedings of the National Academy of Sciences of the United States of America， August 19, 2019
+**Citation:**  American Soceity for Microbiology， 29 April, 2025
 
 <details>
 <summary><button class="md-button md-button--primary">📄 View Paper</button></summary>
