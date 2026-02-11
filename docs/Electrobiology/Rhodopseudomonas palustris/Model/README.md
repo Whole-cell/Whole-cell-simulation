@@ -1,8 +1,8 @@
-## [Characterizing acetogenic metabolism using a genome-scale metabolic reconstruction of Clostridium ljungdahlii](https://pubmed.ncbi.nlm.nih.gov/24274140/)
+## [The genome-scale metabolic model for the purple non-sulfur bacterium Rhodopseudomonas palustris Bis A53 accurately predicts phenotypes under chemoheterotrophic, chemoautotrophic, photoheterotrophic, and photoautotrophic growth conditions](https://pubmed.ncbi.nlm.nih.gov/37556472)
 
-**Authors:** Harish Nagarajan , Merve Sahin, Juan Nogales, Haythem Latif, Derek R Lovley, Ali Ebrahim, Karsten Zengler  
+**Authors:** Diego Tec-Campos , Camila Posadas , Juan D Tibocha-Bonilla , Deepan Thiruppathy , Nathan Glonek , Cristal Zuñiga , Alejandro Zepeda , Karsten Zengler  
 
-**Citation:**  Microbial Cell Factories， 25 November, 2013
+**Citation:**  Computational Biology， 9 August, 2023
 
 <details>
 <summary><button class="md-button md-button--primary">📄 View Paper</button></summary>
