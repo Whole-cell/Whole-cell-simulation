@@ -2,31 +2,3 @@ sam:
   name: Sam
   description: Group member
   avatar: https://github.com/yuetau.png
-
-rich:
-  name: Rich
-  description: Group member
-
-xiaoguang:
-  name: Xiaoguang
-  description: Group member
-
-bao:
-  name: Bao
-  description: Group member
-
-kim:
-  name: Kim
-  description: Group member
-
-mathew:
-  name: Mathew
-  description: Group member
-
-leo:
-  name: Leo
-  description: Group member
-
-lihan:
-  name: Lihan
-  description: Group member
