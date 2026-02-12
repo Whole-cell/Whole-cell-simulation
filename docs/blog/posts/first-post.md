@@ -2,7 +2,7 @@
 date:
   created: 2026-01-29
 authors:
-  - Sam
+  - sam
 tags:
   - update
   - blog
