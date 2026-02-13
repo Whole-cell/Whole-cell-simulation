@@ -1,9 +1,9 @@
-sam:
-  name: Sam
-  description: Group member
-  avatar: https://github.com/yuetau.png
-
-rich:
-  name: Rich
-  description: Group member
+authors:
+  sam:
+    name: Sam
+    description: Group member
+    avatar: https://github.com/yuetau.png
+  rich:
+    name: Rich
+    description: Group member
   
