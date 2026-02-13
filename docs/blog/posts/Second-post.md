@@ -2,7 +2,7 @@
 date:
   created: 2026-02-12
 authors:
-  - Rich
+  - rich
 
 ---    
 
