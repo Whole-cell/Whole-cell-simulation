@@ -1,10 +1,10 @@
 ---
 date:
   created: 2026-02-12
-autors:
-  -Rich
+authors:
+  - Rich
 
----
+---    
 
 # Second blog
-This is a sceond blog to check the function of our website
+This is a second blog to check the function of our website
