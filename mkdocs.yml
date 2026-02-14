@@ -30,7 +30,6 @@ plugins:
       authors: true
       authors_profiles: true
       authors_profiles_name: By Author
-      authors_file: docs/.authors.yml
       pagination_per_page: 10
   - tags:
       tag_name: By Tags
